@@ -1,3 +1,7 @@
+# The React Quiz based on The Ultimate React Course 2024 by Jonas Schmedtmann
+
+## Emphasizing the use of useReducer, dispatch to update multiple state variables.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
